@@ -1,3 +1,6 @@
 [submodule "tienda-app"]
 	path = tienda-app
 	url = https://github.com/danielinho23/tienda-app.git
+[submodule "tienda-api"]
+	path = tienda-api
+	url = https://github.com/danielinho23/tienda-api.git
