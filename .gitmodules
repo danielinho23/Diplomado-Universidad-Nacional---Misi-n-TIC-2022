@@ -4,3 +4,9 @@
 [submodule "tienda-api"]
 	path = tienda-api
 	url = https://github.com/danielinho23/tienda-api.git
+[submodule "cajero-api"]
+	path = cajero-api
+	url = https://github.com/danielinho23/cajero-api.git
+[submodule "proyecto_ciclo_III"]
+	path = proyecto_ciclo_III
+	url = https://github.com/danielinho23/proyecto_ciclo_III.git
